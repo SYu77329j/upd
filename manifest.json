@@ -1,0 +1,12 @@
+{
+  "files": [
+    {
+      "name": "pakchunkLuxeCS-WindowsClient.pak",
+      "sha256": "3160A96A59A23229BF2F5CB5447AAAA02EED621EFB8CB241A6200EB725E37CC6"
+    },
+    {
+      "name": "pakchunkLuxeCS-WindowsClient.sig",
+      "sha256": "D55EE3C4C39A5786111BCAB8A22C1D322DB6E0CD1C7734CF293259C61E64DCE0"
+    }
+  ]
+}
